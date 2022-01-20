@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Bangladesh take down world champions New Zealand in historic cricket upset",
+      "description": "With only its sixth Test win away from home and its first Test win over a team ranked in the top 5, Bangladesh stuns New Zealand with an eight-wicket victory.",
+      "url": "http://www.abc.net.au/news/2022-01-05/bangladesh-beat-nz/100739174",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0e2a6019206380886b3ec0b227ab891c?impolicy=wcms_crop_resize&cropH=1749&cropW=3110&xPos=0&yPos=162&width=862&height=485",
+      "publishedAt": "2022-01-05T02:26:05Z",
+      "content": "Fast bowler Ebadot Hossain has taken a career-best 6-46 as Bangladesh beat world champion New Zealand by eight wickets in the first Test, capturing its first win in New Zealand. \r\n<ul><li>Bangladesh'… [+3949 chars]"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Daniella White",
+      "title": "Cricket to face rain delays as Sydney’s run of beach weather ends",
+      "description": "Bureau of Meteorology forecaster Olenka Duma said the Ashes Test match to start in Sydney on Wednesday will face rain delays.",
+      "url": "https://www.smh.com.au/national/nsw/cricket-to-face-rain-delays-as-sydney-s-run-of-beach-weather-ends-20220104-p59lro.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/6e9094bc9b6787f101ec0558c362ed02b5416647",
+      "publishedAt": "2022-01-04T03:19:43+00:00",
+      "content": "She said the muggy and humid conditions are being driven by ex-tropical cyclone Seth sitting over the Coral Sea. Meanwhile, a trough over the inland areas will move towards the coast and bring storms… [+718 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
